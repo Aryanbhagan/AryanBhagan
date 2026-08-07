@@ -1,5 +1,4 @@
-# 👋 Hey there, I’m **Aryan Bhagan**  
-**Github Handle:** `Skullvenom`  
+# 👋 Hey there, I’m **Aryan Bhagan**    
 🧠 A curious coder building real-world solutions with code and creativity.
 
 ---
