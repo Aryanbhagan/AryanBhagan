@@ -99,9 +99,7 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 </p>
 <br/>
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Statistics
+## 📊 Developement  Insights
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryanbhagan&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&border_radius=15" />
