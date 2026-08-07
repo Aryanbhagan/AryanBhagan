@@ -28,14 +28,14 @@ learning: New frameworks, IoT protocols, cloud backends
 fun_fact: I like turning "what if" ideas into working prototypes
 ```
 
--  Currently building safety-focused embedded systems
--  Exploring Python, C, and hardware-driven solutions
--  Ask me about IoT, sensors, or Flutter apps
--  Reach me at **aryanbhagan84@gmail.com**
+- 🔭 Currently building safety-focused embedded systems
+- 🌱 Exploring Python, C, and hardware-driven solutions
+- 💬 Ask me about IoT, sensors, or Flutter apps
+- 📫 Reach me at **aryanbhagan84@gmail.com**
 
 <br/>
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ fun_fact: I like turning "what if" ideas into working prototypes
 
 <br/>
 
-##  Featured Project
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -99,7 +99,7 @@ A Flutter-based smart shop management system with a secure cloud backend — han
 
 <br/>
 
-##  Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -111,7 +111,7 @@ A Flutter-based smart shop management system with a secure cloud backend — han
 
 <br/>
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
