@@ -39,22 +39,12 @@ fun_fact: I like turning "what if" ideas into working prototypes
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=internetarchive&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,angular,nodejs,express,mongodb,mysql,firebase,git,github,linux,vscode,postman&perline=8" />
+</p>
 
-</div>
-
-<br/>
 
 ## 🚀 Featured Project
 
