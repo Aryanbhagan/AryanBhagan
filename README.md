@@ -30,25 +30,23 @@ learning: New frameworks, IoT protocols, cloud backends
 fun_fact: I like turning "what if" ideas into working prototypes
 ```
 
-- 🔭 Currently building safety-focused embedded systems
-- 🌱 Exploring Python, C, and hardware-driven solutions
-- 💬 Ask me about IoT, sensors, or Flutter apps
-- 📫 Reach me at **aryanbhagan84@gmail.com**
+-  Currently building safety-focused embedded systems
+-  Exploring Python, C, and hardware-driven solutions
+-  Ask me about IoT, sensors, or Flutter apps
+  📫 Reach me at **aryanbhagan84@gmail.com**
 
 <br/>
 
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,flutter,angular,nodejs,express,mongodb,mysql,firebase,git,github,linux,vscode,postman&perline=8" />
 </p>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛞 Drink & Drive Prevention System
+###  Drink & Drive Prevention System
 
 An IoT-based vehicle safety system that detects alcohol consumption before ignition, prevents vehicle operation when necessary, and supports real-time alert capabilities using embedded systems, GPS, and GSM communication.
 
@@ -64,7 +62,7 @@ An IoT-based vehicle safety system that detects alcohol consumption before ignit
 
 ---
 
-### 🏪 Shopkeeper App
+###  Shopkeeper App
 
 A full-stack shop management application featuring inventory management, billing, employee attendance, authentication, and cloud-backed data storage for efficient business operations.
 
@@ -84,7 +82,7 @@ A full-stack shop management application featuring inventory management, billing
 
 ---
 
-### 🚗 Car Rental App
+###  Car Rental App
 
 A modern vehicle rental platform built with Angular and a Node.js backend, allowing users to browse vehicles, manage bookings, authenticate securely, and streamline rental management.
 
@@ -99,7 +97,7 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 </p>
 <br/>
 
-## 📊 Developement  Insights
+##  Developement  Insights
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryanbhagan&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&border_radius=15" />
@@ -112,9 +110,7 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 </p>
 <br/>
 
-## 🐍 Contribution Snake
-
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryanbhagan/Aryanbhagan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
@@ -122,21 +118,33 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 
 <br/>
 
+##  Connect With Me
+
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
+
+<a href="https://github.com/Aryanbhagan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/aryan-bhagan-98b12a323/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <a href="mailto:aryanbhagan84@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-bhagan-98b12a323/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Aryanbhagan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Primary_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<a href="mailto:aryanbhagan08@gmail.com">
+  <img src="https://img.shields.io/badge/Secondary_Email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <i>Open to collaboration on cybersecurity, embedded systems, IoT, and full-stack development.</i>
+</p>
 
 <br/>
 
