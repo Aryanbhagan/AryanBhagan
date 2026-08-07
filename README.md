@@ -114,13 +114,11 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Aryanbhagan/Aryanbhagan/output/github-contribution-grid-snake-dark.svg" width="98%" />
-
-<sub>⚙️ To activate this, add the <code>snk</code> GitHub Action (see setup note below the fold)</sub>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aryanbhagan/Aryanbhagan/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 <br/>
 
