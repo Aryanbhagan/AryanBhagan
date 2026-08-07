@@ -101,16 +101,17 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aryanbhagan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanbhagan&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryanbhagan&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&border_radius=15" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbhagan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbhagan&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="98%"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Aryanbhagan&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&border_radius=15" />
+</p>
 
-</div>
-
+<p align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbhagan&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&border_radius=15" />
+</p>
 <br/>
 
 ## 🐍 Contribution Snake
