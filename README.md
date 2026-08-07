@@ -3,9 +3,9 @@
 <img src="./assets/banner.png" alt="Aryan Bhagan Banner" width="100%"/>
 
 <a href="https://github.com/Aryanbhagan">
-  <img src="<p align="center">
+  <img src=<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Programmer;Embedded+Systems+Enthusiast;MSc+Cybersecurity+Student;Full+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
-</p>"/>
+</p>
 </a>
 
 <br/>
