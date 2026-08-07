@@ -149,16 +149,15 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 <br>
 
 <p align="center">
+  <i>Open to collaboration on cybersecurity, embedded systems, IoT, and full-stack development.</i>
+</p>
+
+<br>
+
+<p align="center">
   Thanks for stopping by! If you found my work interesting, feel free to connect or collaborate.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:2563EB,100:00C2FF&section=footer" />
-</p>
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=72&fontColor=FFFFFF&fontSize=24&animation=twinkling&color=0:0F172A,50:2563EB,100:00C2FF&section=footer" />
-</p>"/>
-
-**Thanks for stopping by — let's build something cool together! 😊**
-
-</div>
+</p>
