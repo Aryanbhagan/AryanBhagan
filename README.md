@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hey%20There!%20I'm%20Aryan%20Bhagan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real-world%20solutions%20with%20code%20%26%20creativity&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/banner.png" alt="Aryan Bhagan Banner" width="100%"/>
 
 <a href="https://github.com/Aryanbhagan">
   <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+%2B+IoT+Developer;Python+%7C+C+%7C+Flutter+%7C+JavaScript;Building+the+Drink-and-Drive+Prevention+System;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira%20Code&center=true&width=560&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
