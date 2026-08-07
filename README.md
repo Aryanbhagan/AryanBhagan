@@ -120,8 +120,6 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 
 ##  Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="center">
 
 <a href="https://github.com/Aryanbhagan" target="_blank">
