@@ -3,7 +3,9 @@
 <img src="./assets/banner.png" alt="Aryan Bhagan Banner" width="100%"/>
 
 <a href="https://github.com/Aryanbhagan">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+%2B+IoT+Developer;Python+%7C+C+%7C+Flutter+%7C+JavaScript;Building+the+Drink-and-Drive+Prevention+System;Always+learning%2C+always+shipping+%F0%9F%9A%80&font=Fira%20Code&center=true&width=560&height=45&color=2575fc&vCenter=true&size=22&pause=1200"/>
+  <img src="<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Programmer;Embedded+Systems+Enthusiast;MSc+Cybersecurity+Student;Full+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG" />
+</p>"/>
 </a>
 
 <br/>
