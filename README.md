@@ -10,9 +10,10 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Aryanbhagan&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Aryanbhagan?label=Followers&style=for-the-badge&color=2575fc" />
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryanbhagan&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Aryanbhagan?label=Followers&style=for-the-badge&color=2575fc" />
+</p>
 </div>
 
 <br/>
