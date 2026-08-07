@@ -46,35 +46,57 @@ fun_fact: I like turning "what if" ideas into working prototypes
 </p>
 
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-<div align="center">
+### 🛞 Drink & Drive Prevention System
 
-<a href="https://github.com/Aryanbhagan/Drink-and-drive-prevention-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanbhagan&repo=Drink-and-drive-prevention-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+An IoT-based vehicle safety system that detects alcohol consumption before ignition, prevents vehicle operation when necessary, and supports real-time alert capabilities using embedded systems, GPS, and GSM communication.
+
+**Tech Stack**
+
+`ESP32` `MQ-3` `GPS` `GSM` `Embedded C` `Arduino IDE`
+
+<p>
+<a href="YOUR_DRINK_DRIVE_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🏪 Shopkeeper App
+
+A full-stack shop management application featuring inventory management, billing, employee attendance, authentication, and cloud-backed data storage for efficient business operations.
+
+**Tech Stack**
+
+`Flutter` `Node.js` `Express.js` `MongoDB` `Firebase`
+
+<p>
+<a href="YOUR_FRONTEND_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Frontend-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </a>
 
-**🛞 Drink & Drive Prevention System**
-An embedded IoT project that detects alcohol intoxication and prevents vehicle operation, with real-time location alerts to promote responsible driving.
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Aryanbhagan/shopkeeper_app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanbhagan&repo=shopkeeper_app&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<a href="YOUR_BACKEND_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
-<a href="https://github.com/Aryanbhagan/shopkeeper_backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanbhagan&repo=shopkeeper_backend&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+### 🚗 Car Rental App
+
+A modern vehicle rental platform built with Angular and a Node.js backend, allowing users to browse vehicles, manage bookings, authenticate securely, and streamline rental management.
+
+**Tech Stack**
+
+`Angular` `Node.js` `Express.js` `MongoDB`
+
+<p>
+<a href="YOUR_CAR_RENTAL_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-**🏪 Shopkeeper App + Backend**
-A Flutter-based smart shop management system with a secure cloud backend — handles inventory, billing, staff, attendance, and sales.
-
-</div>
-
+</p>
 <br/>
 
 ## 📊 GitHub Stats
