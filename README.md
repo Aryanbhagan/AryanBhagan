@@ -150,7 +150,11 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+<img src="---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Thanks%20for%20Visiting!&fontAlign=50&fontAlignY=72&fontColor=FFFFFF&fontSize=24&animation=twinkling&color=0:0F172A,50:2563EB,100:00C2FF&section=footer" />
+</p>"/>
 
 **Thanks for stopping by — let's build something cool together! 😊**
 
