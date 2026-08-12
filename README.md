@@ -115,14 +115,14 @@ Full-stack property listing platform for browsing, searching, shortlisting, sell
 
 ## 📈 Development Insights
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryanbhagan&show_icons=true&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&icon_color=00C2FF&border_radius=15" alt="GitHub Stats"/>
+## 📈 Development Insights
 
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Aryanbhagan&theme=transparent&hide_border=true&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&border_radius=15" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbhagan&bg_color=0D1117&color=00C2FF&line=2563EB&point=00C2FF&area=true&hide_border=true" alt="Aryan Bhagan's Activity Graph"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanbhagan&layout=compact&theme=transparent&hide_border=true&title_color=00C2FF&text_color=FFFFFF&border_radius=15" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryanbhagan&theme=github_dark" alt="GitHub Profile Summary"/>
 </p>
 
 <br/>
