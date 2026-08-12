@@ -98,6 +98,21 @@ A modern vehicle rental platform built with Angular and a Node.js backend, allow
 </p>
 <br/>
 
+###### 🏠 Property Finder
+
+Full-stack property listing platform for browsing, searching, shortlisting, selling, and scheduling property visits.
+
+**Tech Stack:** 
+Angular • TypeScript • Node.js • Express.js • MongoDB • Mongoose • Firebase • JWT • Multer • Nodemailer
+
+<p>
+<a href="https://https://github.com/Aryanbhagan/property-finder_website">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<br/>
+
+
 ##  Developement  Insights
 
 <p align="center">
