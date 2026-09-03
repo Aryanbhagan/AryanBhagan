@@ -115,8 +115,6 @@ Full-stack property listing platform for browsing, searching, shortlisting, sell
 
 ## 📈 Development Insights
 
-## 📈 Development Insights
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryanbhagan&bg_color=0D1117&color=00C2FF&line=2563EB&point=00C2FF&area=true&hide_border=true" alt="Aryan Bhagan's Activity Graph"/>
 </p>
